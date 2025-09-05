@@ -15,7 +15,7 @@
             --gray: #7a7a7a;
             --success: #28a745;
         }
-
+ 
         * {
             margin: 0;
             padding: 0;
