@@ -826,6 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
+
             <h1>Winter Collection 2024</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
@@ -1121,7 +1122,7 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 NexusShop. All rights reserved.</p>
+                <p>&copy; 2025 NexusShop. All rights reserved.</p>
             </div>
         </div>
     </footer>
